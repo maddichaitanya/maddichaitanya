@@ -1,4 +1,7 @@
                                                       👋 Hello, I'm Maddi Chaitanya
+
+
+                                                      
 Welcome to my GitHub! 🚀 I'm a passionate developer with a love for learning and building things that matter. I focus Java projects, web development. Here, you’ll find the projects I’m working on, experimenting with, or contributing to.
 ________________________________________
 
